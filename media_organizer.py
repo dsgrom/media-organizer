@@ -69,7 +69,7 @@ def get_unique_path(p: Path) -> Path:
 # ==================
 # Configure logging to write to 'app.log' file
 logging.basicConfig(
-    filename='get_dest_paths.log',
+    filename='get_dest_paths.log',  # destination of log file?
     level=logging.DEBUG,  # Only log messages of level ERROR and higher
     format='%(asctime)s - %(levelname)s - %(message)s',
     filemode='w'  # Append to the file (default mode)
