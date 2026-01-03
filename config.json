@@ -1,0 +1,22 @@
+{
+    "import_directory": "/Users/kevin.huang/Desktop/imports",
+    "photo_dest_directory": "/Users/kevin.huang/Pictures/originals",
+    "vid_dest_directory": "/Users/kevin.huang/Movies/originals",
+    "photo_extensions": [
+        ".NEF",
+        ".CR3",
+        ".RAF",
+        ".ARW",
+        ".ORF",
+        ".DNG",
+        ".PNG",
+        ".JPG",
+        ".JPEG",
+        ".HEIC",
+        ".HEIF"
+    ],
+    "video_extensions": [
+        ".MP4",
+        ".MOV"
+    ]
+}
